@@ -6,17 +6,34 @@ A scalable, reusable component library built with **React**, **TypeScript**, **T
 
 ## 📁 Folder Structure
 
-src/
-├── components/
-│ ├── feedback/ # Modal & Toast components
-│ ├── inputs/ # Dropdown & TextInput components
-│ ├── typography/ # Headings, Paragraphs, Captions
-│ └── ui/ # Button components
-├── lib/ # Utility functions
-├── App.tsx # Entry App component (for testing)
-├── main.tsx # App mount file
-├── index.css # TailwindCSS base styles
-└── vite-env.d.ts # Vite + TS config
+- `src/`
+  - `components/`
+    - `feedback/`
+      - `index.ts`
+      - `Modal.tsx`
+      - `Modal.stories.tsx`
+      - `Toast.tsx`
+      - `Toast.stories.tsx`
+    - `inputs/`
+      - `index.ts`
+      - `TextInput.tsx`
+      - `TextInput.stories.tsx`
+      - `Dropdown.tsx`
+      - `Dropdown.stories.tsx`
+    - `typography/`
+      - `index.ts`
+      - `Typography.tsx`
+      - `Typography.stories.tsx`
+    - `ui/`
+      - `index.ts`
+      - `Button.tsx`
+  - `lib/`
+    - `utils.ts`
+  - `App.tsx`
+  - `main.tsx`
+  - `index.css`
+  - `vite-env.d.ts`
+
 
 ## 🚀 Tech Stack
 
