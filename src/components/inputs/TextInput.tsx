@@ -27,6 +27,7 @@ const inputVariants = cva(
 export interface TextInputProps 
   extends React.InputHTMLAttributes<HTMLInputElement>,
     VariantProps<typeof inputVariants> {
+  size?: VariantProps<typeof inputVariants>["size"];
   label?: string;
   helperText?: string;
   errorText?: string;
