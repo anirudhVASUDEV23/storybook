@@ -2,6 +2,10 @@
 
 A scalable, reusable component library built with **React**, **TypeScript**, **TailwindCSS**, and **Storybook** for enterprise-grade applications.
 
+## 🔗 Links
+
+- **GitHub Repo:** [anirudhVASUDEV23/storybook](https://github.com/anirudhVASUDEV23/storybook)
+- **Storybook Live Preview:** [Open Storybook](https://681976f77b1c41f3c4361f7b-tpkjibxgrk.chromatic.com/)
 ---
 
 ## 📁 Folder Structure
@@ -80,12 +84,3 @@ A scalable, reusable component library built with **React**, **TypeScript**, **T
 - **Accessibility notes**
 - **Theming** (light/dark)
 - **Best practices / Do’s and Don’ts**
-
----
-
-🔗 Links
-GitHub Repo: anirudhVASUDEV23/storybook
-
-Storybook Live Preview: Chromatic Deployment
-
-Screenshots / GIFs: See /screenshots folder or below.
